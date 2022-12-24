@@ -12,6 +12,9 @@
 2.Create AuthContext
 3.Set AuthContext.Provider
 4.Make sure you set the children
+5.Export Auth context
+6.Get form data
+7.getAuth on the userContext
 
 
 
